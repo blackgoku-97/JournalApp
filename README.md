@@ -1,11 +1,16 @@
 # JournalApp
 
-Aplicacion de notas en progreso
+Aplicacion de notas (completada)
 
 frontend:
-Hecha con html, css, js 
+html, css, js 
 biblioteca: React
-librerias: React Router Dom y MUI
+librerias: React Router Dom, MUI y sweetalert2
 
 backend:
-firebase 
+firebase
+
+base de datos/database
+firestore
+
+servicios usados: cloudinary 
